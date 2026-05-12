@@ -1,0 +1,10 @@
+{
+  "ads_enabled": true,
+  "ad_cooldown_seconds": 45,
+  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+  "unity_game_id": "1234567",
+  "unity_interstitial_id": "Interstitial_Android",
+  "unity_rewarded_id": "Rewarded_Android"
+}
